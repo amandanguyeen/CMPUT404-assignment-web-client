@@ -18,3 +18,6 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+https://www.internalpointers.com/post/making-http-requests-sockets-python
+https://stackoverflow.com/questions/45695168/send-raw-post-request-using-socket
+https://stackoverflow.com/questions/54897849/circular-issue-attempt-to-send-form-url-encoded-data-causes-typeerror-cant-co
